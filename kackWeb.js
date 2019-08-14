@@ -45,9 +45,10 @@
                      
                     else if(clicou_dnv == 1){
 
-                     	        segundo_valor =Number(document.getElementById("digi").innerText);
-                              document.getElementById('digi').innerText = segundo_valor + segundo_valor; 
+                     	      segundo_valor =Number(document.getElementById("digi").innerText);
 
+ 
+                      document.getElementById('digi').innerText = segundo_valor + segundo_valor;
                      
                     }
            			
