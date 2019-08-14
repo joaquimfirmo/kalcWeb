@@ -5,7 +5,7 @@
         var primeiro_valor;
         var opt;
         var clicou_dnv = 0;
-        var ponto = true;
+      
 
 
 
